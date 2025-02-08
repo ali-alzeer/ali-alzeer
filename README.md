@@ -3,6 +3,7 @@
 ## About Me / عني
 
 My name is Ali Alzeer, a full-stack web developer with expertise in developing web applications using modern technologies.
+
 أنا علي الزير، مطور ويب متكامل لدي خبرة في تطوير تطبيقات الويب باستخدام التقنيات الحديثة.
 
 ## Professional Skills / المهارات المهنية
