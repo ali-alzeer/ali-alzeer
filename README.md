@@ -1,16 +1,19 @@
-## Hi there 👋
+# Welcome to My Profile / مرحبًا بكم في ملفي الشخصي
 
-<!--
-**ali-alzeer/ali-alzeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me / عني
 
-Here are some ideas to get you started:
+My name is Ali Alzeer, a full-stack web developer with expertise in developing web applications using modern technologies.
+أنا علي الزير، مطور ويب متكامل لدي خبرة في تطوير تطبيقات الويب باستخدام التقنيات الحديثة.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Professional Skills / المهارات المهنية
+
+- **Programming Languages / لغات البرمجة**
+  - TypeScript
+  - C#
+    
+- **Frameworks / الأطر**
+  - Angular
+  - ASP.NET Core
+      
+- **Databases / قواعد البيانات**
+  - Microsoft SQL Server
