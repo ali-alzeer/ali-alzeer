@@ -13,6 +13,7 @@ My name is Ali Alzeer, a full-stack web developer with expertise in developing w
   - C#
     
 - **Frameworks / الأطر**
+  - React (Next js)
   - Angular
   - ASP.NET Core
       
